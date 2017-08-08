@@ -1,0 +1,3 @@
+First, we learned how to reduce a dataframe's memory footprint by selecting the optimal data types for each column. 
+
+Then, we discussed how to work with dataframe chunks and modify our processing logic
